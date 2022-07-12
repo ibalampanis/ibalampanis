@@ -1,8 +1,9 @@
-### Hi 👋
+### Hi there👋👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=ibalampanis&show_icons=true&theme=dark&count_private=true" width="400">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibalampanis&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibalampanis&theme=dark&count_private=true&hide=css,scss,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibalampanis&layout=compact&theme=dark&hide=css,scss,html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ibalampanis/ibalampanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
