@@ -11,8 +11,6 @@ Ilias</a></h1>
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@balampanis.ilias).
 
-- 📫 How to reach me **balampanis.ilias@gmail.com**.
-
 - 📄 Know about my experiences in my <a href="http://www.ibalampanis.gr/" target="blank">personal webpage</a>.
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
