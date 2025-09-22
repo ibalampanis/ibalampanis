@@ -36,6 +36,7 @@ Ilias</a></h1>
 
 - [Harnessing Data and AI to Diagnose Car Faults: A Data Analyst’s Journey with an Alfa Romeo MiTo](https://medium.com/@balampanis.ilias/harnessing-data-and-ai-to-diagnose-car-faults-a-data-analysts-journey-with-an-alfa-romeo-mito-ab92de134ad8)
 - [Machine Learning in Action: A Data Enthusiast’s Guide to Real-Time Car Health Monitoring Systems](https://medium.com/@balampanis.ilias/machine-learning-in-action-a-data-enthusiasts-guide-to-real-time-car-health-monitoring-systems-b0ae4724729b)
+- [Why I Sold My BMW G310R and Never Looked Back: An Engineer’s Love Letter to Mechanical Poetry](https://medium.com/@balampanis.ilias/why-i-sold-my-bmw-g310r-and-never-looked-back-an-engineers-love-letter-to-mechanical-poetry-ad94f70698d9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
