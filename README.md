@@ -26,9 +26,9 @@ Ilias</a></h1>
 		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibalampanis&layout=compact&theme=dark&bg_color=0A0A0A" alt="Ilias Balampanis' Top Languages"/>
-</p>
+</p> -->
 
 ### Blogs posts
 
