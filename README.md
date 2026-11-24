@@ -3,19 +3,26 @@
 <p align="left"> <a href="https://twitter.com/ibalampanis" target="blank"><img src="https://img.shields.io/twitter/follow/ibalampanis?logo=twitter&style=for-the-badge" alt="ibalampanis" /></a> </p>
 
 - 🔭 I'm currently working at <a href="https://www.dialecticanet.com" target="blank">Dialectica</a> on Data Science team.
-- 📝 I regularly write articles on my [Personal Blog](https://balampanis.gr/blogs).
+- 📝 I regularly write articles on my [Personal Blog](https://balampanis.gr/blogs) and [Medium](YOUR_MEDIUM_PROFILE_URL).
 - 📄 Know about my experiences in my <a href="https://balampanis.gr/" target="blank">personal webpage</a>.
 <br/>
 
-<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-<p align="center">
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+  Connect with me 🤝
+</h3>
+
 <div align="center" class="icons-social" style="margin-left: 10px;">
   <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/ibalampanis/">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
+  </a>
   <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/ibalampanis">
-    <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a>
+    <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" alt="Twitter">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@balampanis.ilias">
+  <img src="https://cdn.simpleicons.org/medium/000000/ffffff" width="40" alt="Medium">
+  </a>
 </div>
-</p>
 
 <div align="left">
 
