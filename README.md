@@ -21,10 +21,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing Data and AI to Diagnose Car Faults: A Data Analyst's Journey with an Alfa Romeo MiTo](https://balampanis.gr/blogs/diagnosing-car-faults-with-ai)
-- [Machine Learning in Action: A Data Enthusiast's Guide to Real-Time Car Health Monitoring Systems](https://balampanis.gr/blogs/real-time-car-health-monitoring)
-- [Why I Sold My BMW G310R and Never Looked Back: An Engineer's Love Letter to Mechanical Poetry](https://balampanis.gr/blogs/bmw-g310r-to-ducati-monster)
 - [From Predictive Maintenance to Data Ownership: Rethinking Industrial Monitoring](https://balampanis.gr/blogs/predictive-maintenance-data-ownership)
+- [Why I Sold My BMW G310R and Never Looked Back: An Engineer's Love Letter to Mechanical Poetry](https://balampanis.gr/blogs/bmw-g310r-to-ducati-monster)
+- [Machine Learning in Action: A Data Enthusiast's Guide to Real-Time Car Health Monitoring Systems](https://balampanis.gr/blogs/real-time-car-health-monitoring)
+- [Harnessing Data and AI to Diagnose Car Faults: A Data Analyst's Journey with an Alfa Romeo MiTo](https://balampanis.gr/blogs/diagnosing-car-faults-with-ai)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
