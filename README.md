@@ -26,7 +26,7 @@
   </a>
   &nbsp;
   <a href="https://medium.com/@balampanis.ilias">
-    <img src="https://cdn.simpleicons.org/medium/FFFFFF" width="40" height="40" alt="Medium"/>
+    <img src="./assets/medium.png" width="40" height="40" alt="Medium"/>
   </a>
 </p>
 
