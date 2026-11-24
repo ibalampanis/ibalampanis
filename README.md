@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://twitter.com/ibalampanis" target="blank"><img src="https://img.shields.io/twitter/follow/ibalampanis?logo=twitter&style=for-the-badge" alt="ibalampanis" /></a> </p>
 
 - 🔭 I'm currently working at <a href="https://www.dialecticanet.com" target="blank">Dialectica</a> on Data Science team.
-- 📝 I regularly write articles on my [Blog Spot](https://balampanis.gr/blogs).
+- 📝 I regularly write articles on my [Personal Blog](https://balampanis.gr/blogs).
 - 📄 Know about my experiences in my <a href="https://balampanis.gr/" target="blank">personal webpage</a>.
 <br/>
 
