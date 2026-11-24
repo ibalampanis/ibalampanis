@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://twitter.com/ibalampanis" target="blank"><img src="https://img.shields.io/twitter/follow/ibalampanis?logo=twitter&style=for-the-badge" alt="ibalampanis" /></a> </p>
 
 - 🔭 I'm currently working at <a href="https://www.dialecticanet.com" target="blank">Dialectica</a> on Data Science team.
-- 📝 I regularly write articles on [Medium](https://medium.com/@balampanis.ilias).
+- 📝 I regularly write articles on my [Blog Spot](https://balampanis.gr/blogs).
 - 📄 Know about my experiences in my <a href="https://balampanis.gr/" target="blank">personal webpage</a>.
 <br/>
 
@@ -19,12 +19,12 @@
 
 <div align="left">
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing Data and AI to Diagnose Car Faults: A Data Analyst's Journey with an Alfa Romeo MiTo](https://medium.com/@balampanis.ilias/harnessing-data-and-ai-to-diagnose-car-faults-a-data-analysts-journey-with-an-alfa-romeo-mito-ab92de134ad8)
-- [Machine Learning in Action: A Data Enthusiast's Guide to Real-Time Car Health Monitoring Systems](https://medium.com/@balampanis.ilias/machine-learning-in-action-a-data-enthusiasts-guide-to-real-time-car-health-monitoring-systems-b0ae4724729b)
-- [Why I Sold My BMW G310R and Never Looked Back: An Engineer's Love Letter to Mechanical Poetry](https://medium.com/@balampanis.ilias/why-i-sold-my-bmw-g310r-and-never-looked-back-an-engineers-love-letter-to-mechanical-poetry-ad94f70698d9)
-- [From Predictive Maintenance to Data Ownership: Rethinking Industrial Monitoring](https://medium.com/@balampanis.ilias/from-predictive-maintenance-to-data-ownership-rethinking-industrial-monitoring-584f2bf82fd8)
+- [Harnessing Data and AI to Diagnose Car Faults: A Data Analyst's Journey with an Alfa Romeo MiTo](https://balampanis.gr/blogs/diagnosing-car-faults-with-ai)
+- [Machine Learning in Action: A Data Enthusiast's Guide to Real-Time Car Health Monitoring Systems](https://balampanis.gr/blogs/real-time-car-health-monitoring)
+- [Why I Sold My BMW G310R and Never Looked Back: An Engineer's Love Letter to Mechanical Poetry](https://balampanis.gr/blogs/bmw-g310r-to-ducati-monster)
+- [From Predictive Maintenance to Data Ownership: Rethinking Industrial Monitoring](https://balampanis.gr/blogs/predictive-maintenance-data-ownership)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
