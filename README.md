@@ -1,39 +1,42 @@
-<h1 align="center">Hi 👋, I'm <a href="https://balampanis.gr/" target="blank"> Ilias</a></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibalampanis&label=Profile%20views&color=0e75b6&style=flat" alt="ibalampanis" /> </p>
-<p align="left"> <a href="https://twitter.com/ibalampanis" target="blank"><img src="https://img.shields.io/twitter/follow/ibalampanis?logo=twitter&style=for-the-badge" alt="ibalampanis" /></a> </p>
 
-- 🔭 I'm currently working at <a href="https://www.dialecticanet.com" target="blank">Dialectica</a> on Data Science team.
-- 📝 I regularly write articles on my [Personal Blog](https://balampanis.gr/blogs) and [Medium](YOUR_MEDIUM_PROFILE_URL).
-- 📄 Know about my experiences in my <a href="https://balampanis.gr/" target="blank">personal webpage</a>.
+<h1 align="center">Hi 👋, I'm <a href="https://balampanis.gr/">Ilias</a></h1>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ibalampanis&label=Profile%20views&color=0e75b6&style=flat" alt="ibalampanis"/>
+</p>
+
+- 🔭 I'm currently working at [Dialectica](https://www.dialecticanet.com) on the Data Science team.
+- 📝 I regularly write articles on my [Personal Blog](https://balampanis.gr/blogs).
+- 📄 Learn more about my professional experience on my [Personal Website](https://balampanis.gr/).
+
 <br/>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" alt="Connect"/>
   Connect with me 🤝
 </h3>
 
-<div align="center" class="icons-social" style="margin-left: 10px;">
-  <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/ibalampanis/">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
+<p align="center">
+  <a href="https://www.linkedin.com/in/ibalampanis/">
+    <img src="https://img.icons8.com/doodle/40/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/ibalampanis">
-    <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" alt="Twitter">
+  &nbsp;
+  <a href="https://x.com/ibalampanis">
+    <img src="https://img.icons8.com/ios-filled/40/twitterx.png" width="40" height="40" alt="X"/>
   </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@balampanis.ilias">
-  <img src="https://cdn.simpleicons.org/medium/000000/ffffff" width="40" alt="Medium">
+  &nbsp;
+  <a href="https://medium.com/@balampanis.ilias">
+    <img src="https://cdn.simpleicons.org/medium/FFFFFF" width="40" height="40" alt="Medium"/>
   </a>
-</div>
-
-<div align="left">
+</p>
 
 ### Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [From Predictive Maintenance to Data Ownership: Rethinking Industrial Monitoring](https://balampanis.gr/blogs/predictive-maintenance-data-ownership)
 - [Why I Sold My BMW G310R and Never Looked Back: An Engineer's Love Letter to Mechanical Poetry](https://balampanis.gr/blogs/bmw-g310r-to-ducati-monster)
 - [Machine Learning in Action: A Data Enthusiast's Guide to Real-Time Car Health Monitoring Systems](https://balampanis.gr/blogs/real-time-car-health-monitoring)
 - [Harnessing Data and AI to Diagnose Car Faults: A Data Analyst's Journey with an Alfa Romeo MiTo](https://balampanis.gr/blogs/diagnosing-car-faults-with-ai)
 <!-- BLOG-POST-LIST:END -->
-
-</div>
 
 ---
